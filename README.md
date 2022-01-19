@@ -1,2 +1,2 @@
 # DRF_project_template
-A Django Rest Framework Template
+A project for Django Rest Framework Template.
