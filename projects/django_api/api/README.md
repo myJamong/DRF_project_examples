@@ -1,5 +1,5 @@
-# Django standard example
-A simple example for using Django standard 
+# Django standard API example
+A simple API using Django 
 
 ---
 
