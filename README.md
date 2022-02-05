@@ -1,14 +1,16 @@
-# DRF_project_template
+# DRF_project_samples
 A project for Django Rest Framework
 
 ---
 
-## Requirements
+## Project Requirements
 
 - Python 3.9.10
+  
+### Used Packages
 - Django 3.2
 - djangorestframework 3.13
-
+- requests 2.27.1
 ---
 
 ## 1. How to start Django Rest Framework project.
