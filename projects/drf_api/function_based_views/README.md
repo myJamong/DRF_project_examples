@@ -1,6 +1,12 @@
 # Django Rest Framework function based view
 A simple example for Django Rest Framework using function based views
 
+## Used DRF Modules
+- Serializer
+- api_view(function based views)
+- Response
+- status
+
 ---
 
 ## Project Requirements
