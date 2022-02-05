@@ -1,21 +1,19 @@
 # DRF_project_samples
-A project for Django Rest Framework
+Projects for understanding Django Rest Framework
 
 ---
-
 ## Project Requirements
 
 - Python 3.9.10
   
-### Used Packages
+### Used Packages in all Projects
 - Django 3.2
 - djangorestframework 3.13
-- requests 2.27.1
+- requests 2.27.1 (for http reqeust actions)
+- pillow 9.0.1 (imaging library)
 ---
 
-## 1. How to start Django Rest Framework project.
-
-### set python venv
+## set python venv
 
 Use python virtual environment.
 
@@ -24,6 +22,9 @@ $ python3.9 -m venv .venv
 
 $ source .venv/bin/activate
 ```
+---
+
+## Managing Django
 
 ### install packages
 
@@ -42,3 +43,10 @@ $ cd tutorial
 $ django-admin startproject <PROJECT_NAME> .
 $ python manage.py startapp <APP_NAME>
 ```
+
+### use admin with default database(sqlite)
+```bash
+$ python manage.py migrate
+$ python manage.py createsuperuser
+```
+

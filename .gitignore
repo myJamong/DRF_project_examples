@@ -1,3 +1,9 @@
 # python virtual environment
 .venv
-
+.idea
+.DS_Store
+*.iml
+db.sqlite3
+uploads
+migrations
+__pycache__
