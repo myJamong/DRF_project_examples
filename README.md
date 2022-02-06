@@ -9,6 +9,8 @@ Projects for understanding Django Rest Framework
 ### Used Packages in all Projects
 - Django 3.2
 - djangorestframework 3.13
+- django-rest-auth 0.9.5
+- django-allauth 0.48.0
 - requests 2.27.1 (for http reqeust actions)
 - pillow 9.0.1 (imaging library)
 ---

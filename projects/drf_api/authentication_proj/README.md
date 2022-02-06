@@ -20,9 +20,9 @@ A simple example for Django Rest Framework using Authentications.
 - Django 3.2
 - djangorestframework 3.13 
 - django-rest-auth 0.9.5
-- requests 2.27.1
 - django-allauth 0.48.0
-
+- requests 2.27.1
+- pillow 9.0.1
 ---
 
 ## 1. Django Settings
